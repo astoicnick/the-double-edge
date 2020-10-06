@@ -1,5 +1,5 @@
 # default config
-baseurl = "https://https://keen-montalcini-f469fc.netlify.app"
+baseurl = "https://keen-montalcini-f469fc.netlify.app"
 languageCode = "en-us"
 title = "The Double Edge"
 theme = "parsa-hugo"
