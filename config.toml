@@ -71,7 +71,7 @@ weight = 3
 
 # deult parameter
 [params]
-logo = "images/logo.jpg"
+logo = "images/logo.png"
 home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
@@ -94,7 +94,7 @@ contact_form_action = "#"
 # Google Analitycs
 google_analitycs_id = "Your ID"
 # copyright
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+copyright = "Copyright &copy; The Double Edge LLC 2020"
 
 # Instagram feed
 [params.instafeed]
